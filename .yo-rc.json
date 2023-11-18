@@ -7,7 +7,7 @@
     "cacheProvider": null,
     "clientFramework": "react",
     "clientTestFrameworks": ["cypress"],
-    "clientTheme": "spacelab",
+    "clientTheme": "slate",
     "clientThemeVariant": "primary",
     "creationTimestamp": 1699119195133,
     "cypressAudit": true,
